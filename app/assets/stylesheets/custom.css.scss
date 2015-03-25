@@ -32,11 +32,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
 }
 
+
+
 h1 {
   font-size: 3em;
   letter-spacing: -2px;
   margin-bottom: 30px;
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
@@ -94,5 +96,15 @@ footer {
       float: left;
       margin-left: 15px;
     }
+  }
+}
+
+
+
+/* Jumbotron  */
+#jumbotron{
+  
+  #jbfirst{
+    text-align: center;
   }
 }
